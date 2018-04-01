@@ -1,0 +1,1 @@
+It's a Snake Game not so good with Graphics but really nice to play a very addictive game. Build in Python 3.5 . It also has a score board and the snake grow's up to a very long extent .It's really fun playing this game.

@@ -1,1 +1,0 @@
-It's a Snake Game not so good with Graphics but really nice to play a very addictive game. Build in Python 3.5 .
